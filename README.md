@@ -69,7 +69,7 @@ Visão Geral
 Visão Países
 Visão Cidades
 Visão Tipos de Culinárias Cada visão é representada pelo seguinte conjunto de métricas:
-Visão Geral
+# Visão Geral
 a. Restaurantes cadastrados
 b. Países cadastrados
 c. Cidades cadastradas
@@ -77,34 +77,34 @@ d. Total de avaliações feitas
 e. Total de tipos de culinária registrados
 f. Mapa com os restaurantes cadastrados
 
-Visão Países
+# Visão Países
 a. Quantidade de Restaurantes Registrados por país
 b. Quantidade de Cidades com Restaurantes cadastrados Registradas por País
 c. Média de da quantidade de Avaliações feitas por País
 d. Média do Preço de um prato para duas pessoas por País
 
-Visão Cidades
+# Visão Cidades
 a. Top 10 Cidades com mais Restaurantes na Base de Dados
 b. Top 7 Cidades com Restaurantes com média de avaliação acima de 4
 c. Top 7 Cidades com Restaurantes com média de avaliação abaixo de 2.5
 d. Top 10 Cidades mais restaurantes com tipos culinários distintos
 
-Visão Tipos de Culinárias
+# Visão Tipos de Culinárias
 a. Melhores Restaurantes com tipos de Culinárias: Italiana, Americana, Árabe, Japonesa e Brasileira
 b. Top Restaurantes ordenados por média de nota
 c. Top melhores tipos de culinárias
 d. Top piores tipos de culinárias
 
-4. Top 3 Insights
+# 4. Top 3 Insights
 A Índia destaca-se no estudo, obtendo a maior quantidade de restaurantes na base de dados, além disso, fica em segundo lugar na média do preço de um prato para duas pessoas, ou seja, além de ter a maioria dos restaurantes do estudo, em média os seus preços são altos.
 No estudo, apenas as cidades de Brasília, São Paulo e Rio de Janeiro foram apresentadas, e as três fazem parte do Top 7 com as piores médias de avaliações, dessa forma, o Brasil é um dos países com pior média de avaliação e com uma quantidade de restaurantes expressiva.
 As culinárias orientais tendem a ter avaliações altas, enquanto as culinárias, como apenas bebidas, ou até mesmo a culinária brasileira, apresentam uma média menor de avaliações.
-5. O produto final do projeto
+# 5. O produto final do projeto
 Dashboard online, hospedado em Cloud e disponível para acesso em qualquer dispositivo conectado a internet.
 
 O painel pode ser acessado através do link: https://ian-projeto-fome-zero.streamlit.app
 
-6. Conclusão
+# 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibem essa métricas da melhor forma possível para o CEO.
 
 O objetivou foi completado, além disso, filtros foram adicionados no dashboard, afim de tirar insights com uma base de comparação mais ajustada, seleciando os países em que estão os restaurantes, ou até mesmo, na Visão Tipos de Culinárias, selecianando os tipos de culinárias.

@@ -61,8 +61,9 @@ Para responder às seguintes perguntas:
 13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos online e fazem entregas?
 # 2. Premissas assumidas para a análise
 Análise foi feita com dados do Dataset Zomato Restaurants - Autoupdated dataset com link para o Kaggle: https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv
-Marketplace foi o modelo de negócio assumido
-As 4 principais visões de negócio foram: Visão Geral, Visão Países, Visão Cidades, Visão Tipos de Culinárias
+<br> A base de dados "zomato.csv" foi transformada em base country_df
+<br> Marketplace foi o modelo de negócio assumido
+<br> As 4 principais visões de negócio foram: Visão Geral, Visão Países, Visão Cidades, Visão Tipos de Culinárias
 # 3. Estratégia da solução
 O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais visões do modelo de negócio para a empresa:
 <br> Visão Geral

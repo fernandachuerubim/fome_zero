@@ -65,35 +65,36 @@ Marketplace foi o modelo de negócio assumido
 As 4 principais visões de negócio foram: Visão Geral, Visão Países, Visão Cidades, Visão Tipos de Culinárias
 # 3. Estratégia da solução
 O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais visões do modelo de negócio para a empresa:
-Visão Geral
-Visão Países
-Visão Cidades
-Visão Tipos de Culinárias Cada visão é representada pelo seguinte conjunto de métricas:
+<br> Visão Geral
+<br> Visão Países
+<br> Visão Cidades
+<br> Visão Tipos de Culinárias 
+<br> Cada visão é representada pelo seguinte conjunto de métricas:
 # Visão Geral
-a. Restaurantes cadastrados
-b. Países cadastrados
-c. Cidades cadastradas
-d. Total de avaliações feitas
-e. Total de tipos de culinária registrados
-f. Mapa com os restaurantes cadastrados
+<br> a. Restaurantes cadastrados
+<br> b. Países cadastrados
+<br> c. Cidades cadastradas
+<br> d. Total de avaliações feitas
+<br> e. Total de tipos de culinária registrados
+<br> f. Mapa com os restaurantes cadastrados
 
 # Visão Países
-a. Quantidade de Restaurantes Registrados por país
-b. Quantidade de Cidades com Restaurantes cadastrados Registradas por País
-c. Média de da quantidade de Avaliações feitas por País
-d. Média do Preço de um prato para duas pessoas por País
+<br> a. Quantidade de Restaurantes Registrados por país
+<br> b. Quantidade de Cidades com Restaurantes cadastrados Registradas por País
+<br> c. Média de da quantidade de Avaliações feitas por País
+<br> d. Média do Preço de um prato para duas pessoas por País
 
 # Visão Cidades
-a. Top 10 Cidades com mais Restaurantes na Base de Dados
-b. Top 7 Cidades com Restaurantes com média de avaliação acima de 4
-c. Top 7 Cidades com Restaurantes com média de avaliação abaixo de 2.5
-d. Top 10 Cidades mais restaurantes com tipos culinários distintos
+<br> a. Top 10 Cidades com mais Restaurantes na Base de Dados
+<br> b. Top 7 Cidades com Restaurantes com média de avaliação acima de 4
+<br> c. Top 7 Cidades com Restaurantes com média de avaliação abaixo de 2.5
+<br> d. Top 10 Cidades mais restaurantes com tipos culinários distintos
 
 # Visão Tipos de Culinárias
-a. Melhores Restaurantes com tipos de Culinárias: Italiana, Americana, Árabe, Japonesa e Brasileira
-b. Top Restaurantes ordenados por média de nota
-c. Top melhores tipos de culinárias
-d. Top piores tipos de culinárias
+<br> a. Melhores Restaurantes com tipos de Culinárias: Italiana, Americana, Árabe, Japonesa e Brasileira
+<br> b. Top Restaurantes ordenados por média de nota
+<br> c. Top melhores tipos de culinárias
+<br> d. Top piores tipos de culinárias
 
 # 4. Top 3 Insights
 A Índia destaca-se no estudo, obtendo a maior quantidade de restaurantes na base de dados, além disso, fica em segundo lugar na média do preço de um prato para duas pessoas, ou seja, além de ter a maioria dos restaurantes do estudo, em média os seus preços são altos.

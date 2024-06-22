@@ -102,14 +102,14 @@ As culinárias orientais tendem a ter avaliações altas, enquanto as culinária
 # 5. O produto final do projeto
 Dashboard online, hospedado em Cloud e disponível para acesso em qualquer dispositivo conectado a internet.
 
-O painel pode ser acessado através do link: https://ian-projeto-fome-zero.streamlit.app
+O painel pode ser acessado através do link: https://fomezero-zqrr2mjnxkctp8tzzrkvpl.streamlit.app/
 
 # 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibem essa métricas da melhor forma possível para o CEO.
 
 O objetivou foi completado, além disso, filtros foram adicionados no dashboard, afim de tirar insights com uma base de comparação mais ajustada, seleciando os países em que estão os restaurantes, ou até mesmo, na Visão Tipos de Culinárias, selecianando os tipos de culinárias.
 
-7. Próximos passos
+# 7. Próximos passos
 Deixar o Dashboard mais apresentavel no conceito visual, a ideia inicial é apresentar os dados e depois deixar o painel bonito.
 Criar novos filtros.
 Adicionar novas visões de negócios.

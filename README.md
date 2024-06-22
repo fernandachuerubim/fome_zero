@@ -9,14 +9,13 @@ O CEO também pediu que fosse gerado um dashboard que permitisse que ele visuali
 
 Para responder às seguintes perguntas:
 
-Geral
+# Geral
 1. Quantos restaurantes únicos estão registrados?
 2. Quantos países únicos estão registrados?
 3. Quantas cidades únicas estão registradas?
 4. Qual o total de avaliações feitas?
-5. Qual o total de tipos de culinária registrados?
-   
-País
+5. Qual o total de tipos de culinária registrados? 
+# País
 1. Qual o nome do país que possui mais cidades registradas?
 2. Qual o nome do país que possui mais restaurantes registrados?
 3. Qual o nome do país que possui mais restaurantes com o nível de preço igual a 4 registrados?
@@ -28,7 +27,7 @@ País
 9. Qual o nome do país que possui, na média, a maior nota média registrada?
 10. Qual o nome do país que possui, na média, a menor nota média registrada?
 11. Qual a média de preço de um prato para dois por país?
-Cidade
+# Cidade
 1. Qual o nome da cidade que possui mais restaurantes registrados?
 2. Qual o nome da cidade que possui mais restaurantes com nota média acima de 4?
 3. Qual o nome da cidade que possui mais restaurantes com nota média abaixo de 2.5?
@@ -37,7 +36,7 @@ Cidade
 6. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem reservas?
 7. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem entregas?
 8. Qual o nome da cidade que possui a maior quantidade de restaurantes que aceitam pedidos online?
-Restaurantes
+# Restaurantes
 1. Qual o nome do restaurante que possui a maior quantidade de avaliações?
 2. Qual o nome do restaurante com a maior nota média?
 3. Qual o nome do restaurante que possui o maior valor de uma prato para duas pessoas?
@@ -46,7 +45,7 @@ Restaurantes
 6. Os restaurantes que aceitam pedido online são também, na média, os restaurantes que mais possuem avaliações registradas?
 7. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas?
 8. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)?
-Tipos de Culinária
+# Tipos de Culinária
 1. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a maior média de avaliação?
 2. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a menor média de avaliação?
 3. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a maior média de avaliação?
@@ -60,13 +59,12 @@ Tipos de Culinária
 11. Qual o tipo de culinária que possui o maior valor médio de um prato para duas pessoas?
 12. Qual o tipo de culinária que possui a maior nota média?
 13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos online e fazem entregas?
-2. Premissas assumidas para a análise
+# 2. Premissas assumidas para a análise
 Análise foi feita com dados do Dataset Zomato Restaurants - Autoupdated dataset com link para o Kaggle: https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv
 Marketplace foi o modelo de negócio assumido
 As 4 principais visões de negócio foram: Visão Geral, Visão Países, Visão Cidades, Visão Tipos de Culinárias
-3. Estratégia da solução
+# 3. Estratégia da solução
 O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais visões do modelo de negócio para a empresa:
-
 Visão Geral
 Visão Países
 Visão Cidades
